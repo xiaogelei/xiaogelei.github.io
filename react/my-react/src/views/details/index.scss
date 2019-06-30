@@ -1,0 +1,52 @@
+
+.dts_div1{
+    width: 96%;
+    overflow: hidden;
+    position: absolute;
+    top:8%;
+    left: 2%;
+    box-shadow: 0 0 10px 5px #b9b9b9;
+    border-radius: 10px;
+}
+.dts_div1_left{
+    width: 41%;
+    overflow: hidden;
+    float: left;
+    margin: 1.5% 0 1.5% 3%;
+}
+.dts_div1_right{
+    width: 50%;
+    overflow: hidden;
+    float: left;
+    margin: 1.5% 0 1.5% 3%;
+}
+.dts_h2{
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.dts_h1{
+    font-size: 30px;
+    margin: 24px 0;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+}
+.dts_img{
+    width: 100%;
+    height: 400px;
+    margin: 0;
+}
+.dts_div1_top2{
+    overflow: hidden;
+    // margin-top:2%;
+    padding: 1.5% 3%;
+}
+.dts_div1_top2 h2{
+    font-size: 30px;
+    line-height: 60px;
+}
+.dts_Sp{
+    color:rgb(117, 117, 117);
+}

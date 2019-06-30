@@ -1,0 +1,56 @@
+
+.sh_div1{
+    width: 100%;
+    background-color: #fff;
+    overflow: hidden;
+}
+.sh_div2{
+    margin:3%;
+    height: 220px;
+    box-shadow: 0 5px 10px 5px #b9b9b9;
+    border-radius: 10px;
+    padding: 4% 3%;
+    overflow: hidden;
+    position: relative;
+    background-color: #fff;
+}
+.sh_img{
+    width: 25%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    border-radius: 10px;
+    float: left;
+}
+.sh_p{
+    width: 66%;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    left: 31%;
+    top: 30%;
+    font-size: 22px;
+}
+.sh_h3{
+    position: absolute;
+    left: 31%;
+    top: 15%;
+    display: inline-block;
+    font-size: 30px;
+}
+.sh_right{
+    width: 20%;
+    height: 60px;
+    line-height: 56px;
+    position: absolute;
+    right: 3%;
+    bottom: 10%;
+    background-color: #fff;
+    border: 1px solid red;
+    color: red;
+    border-radius: 50px;
+    font-size: 24px;
+}

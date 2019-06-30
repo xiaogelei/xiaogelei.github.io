@@ -1,0 +1,63 @@
+.my1{
+    background-color: #fff;
+    overflow: hidden;
+    height: 100%;
+}
+.myDiv{
+    width: 100%;
+    // border:1px solid red;
+    border-radius: 10px 10px 0 0;
+    position: fixed;
+    top:25%;
+    // z-index: 20;
+    background-color: #fff;
+}
+.myI{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    // background-color: blue;
+    border-radius: 50%;
+    margin:0;
+    position: absolute;
+    top:-12%;
+    left: 3%;
+}
+.mySpan{
+    font-size: 30px;
+    vertical-align: top;
+    display:inline-block;
+    margin:35px 0 0 260px;
+}
+.xgSapn{
+    position: absolute;
+    top:3%;
+    right:5%;
+    border:1px solid red;
+    padding: 2% 5%;
+    border-radius: 25px;
+    color:red;
+}
+
+.myUl{
+    width: 100%;
+    // border: 1px solid blue;
+    overflow: hidden;
+    margin-top:10%;
+}
+.myUl li{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.myP1{
+    padding: 5% 0;
+    border-bottom: 1px solid rgb(180, 178, 178);
+}
+.myS1{
+    margin-left: 3%;
+}
+
+.hiddenInput{
+    display: none;
+}
